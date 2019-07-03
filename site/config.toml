@@ -26,3 +26,15 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = ""
+
+[[menu.global]]
+    name = "Development"
+    url = "/categories/Development/"
+
+[[menu.global]]
+    name = "golang"
+    url = "/categories/golang/"
+
+[[menu.footer]]
+    name = "About"
+    url = "/page/about/"

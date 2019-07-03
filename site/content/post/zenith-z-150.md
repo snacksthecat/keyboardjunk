@@ -6,6 +6,7 @@ date = "2018-03-21T17:47:13Z"
 title = "Zenith Z-150"
 [menu.main]
 weight = 3
+image = "uploads/2018/03/21/Photo%20Mar%2017,%204%2027%2034%20PM.jpg"
 
 +++
 ## First Impressions

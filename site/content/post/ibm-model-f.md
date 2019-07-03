@@ -4,9 +4,9 @@ Description = "IBM Buckling Spring"
 Tags = ["Paint", "Buckling spring", "Model F", "IBM"]
 date = "2018-03-14T22:26:14+00:00"
 title = "IBM Model F"
+image = "uploads/2018/03/15/Photo%20Mar%2011,%202%2038%2006%20PM.jpg"
 [menu.main]
 weight = 2
-image = "uploads/2018/03/15/Photo%20Mar%2011,%202%2038%2006%20PM.jpg"
 
 +++
 ## Introduction

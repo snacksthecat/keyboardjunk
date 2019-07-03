@@ -4,6 +4,7 @@ Description = "Mitsumi miniature mechanical yellow"
 Tags = ["Sound dampening", "O-rings", "Lube", "Mitsumi", "KEA"]
 date = "2018-02-24T12:40:17Z"
 title = "PowerStation by KEA"
+image = "uploads/2018/02/24/Photo%20Feb%2016,%2012%2046%2050%20PM.jpg"
 
 +++
 This next keyboard I also purchased off of [/r/mechmarket](https://www.reddit.com/r/mechmarket) when I was soliciting for interesting vintage keyboards.  Based on the pictures it looked like a pretty cool board but I was reluctant to purchase it since I was totally unfamiliar with the brand and style.  I actually wasn't even aware what type of switches this keyboard had when I bought it (I'm not sure why I didn't ask this question.  I guess I like surprises).

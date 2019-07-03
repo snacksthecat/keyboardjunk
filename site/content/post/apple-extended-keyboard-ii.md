@@ -6,6 +6,7 @@ date = "2018-03-03T08:05:33+00:00"
 title = "Apple Extended Keyboard II"
 [menu.main]
 weight = 1
+image = "uploads/2018/03/03/Photo%20Mar%2003,%207%2037%2045%20AM.jpg"
 
 +++
 My next keyboard I picked up from a local place called [FreeGeek Chicago](http://freegeekchicago.org/).  This is a not-for-profit facility where you can drop off used computer equipment.  They refurbish items and sell them to the public at a really nice discount.  The facility also provides educational activities and PC/internet access to anyone interested.  It's a very cool place in the city providing some much needed services to the public.

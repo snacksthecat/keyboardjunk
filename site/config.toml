@@ -1,27 +1,28 @@
-baseurl = "http://keyboardjunk.com"
-languageCode = "en"
-title = "Keyboard Junk"
-copyright = ""
-paginate = 3
-
-googleAnalytics = "Yout Google Analytics ID"
-
+baseurl = "/"
+languageCode = "en-us"
+title = "Casper Theme"
 theme = "minimage"
+
+copyright = ""
+googleAnalytics = ""
+
+disqusShortname = ""
+paginate = 5
+
+canonifyurls = true
 
 [params]
   description = "snacksthecat on Deskthority and Reddit"
-  author = "snacksthecat"
-  logo = '/image/logo.png'
-
-[[menu.global]]
-    name = "Development"
-    url = "/categories/Development/"
-
-[[menu.footer]]
-    name = "About"
-    url = "/page/about/"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+  cover = "images/cover.jpg"
+  author = ""
+  authorlocation = ""
+  authorwebsite = ""
+  bio= ""
+  logo = "images/logo.png"
+  googleAnalyticsUserID = ""
+  RSSLink = ""
+  githubName = ""
+  twitterName = ""
+  hideHUGOSupport = false
+  [params.social]
+    twitter = ""

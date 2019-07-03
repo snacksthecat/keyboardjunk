@@ -1,15 +1,11 @@
----
-title: About this site
-comments: false
-weight: -1
-type: page
-image:
-  feature: /images/feature-apple.jpg
-  
----
++++
+title = "About this site"
+date = "2019-07-03"
+menu = "main"
++++
+
 This is my personal blog where I document my keyboard projects.
 
----
 
 I'm pretty much always interested in buying and/or selling items.  Please feel welcome to reach out to me if you have any questions or offers.
 

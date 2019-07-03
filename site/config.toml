@@ -33,4 +33,4 @@ canonifyurls = true
 
 [[menu.global]]
     name = "About"
-    url = "/pages/about/"
+    url = "/about/"

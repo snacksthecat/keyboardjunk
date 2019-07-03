@@ -1,4 +1,4 @@
-baseurl = "https://keyboardjunk.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "Keyboard Junk"
 theme = "minimage"

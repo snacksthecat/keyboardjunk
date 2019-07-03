@@ -4,6 +4,7 @@ Description = "Alps SKCM Orange"
 Tags = ["Alps", "Apple", "Zenith"]
 date = "2018-02-22T19:03:31Z"
 title = "Zenith Supersport / Apple Extended Keyboard Custom Project"
+image = "uploads/2018/02/23/Photo%20Aug%2026,%203%2031%2015%20PM.jpg"
 
 +++
 This project began when I came across a set of vintage Alps keycaps from a Zenith Supersport 286 laptop on [/r/mechmarket](https://www.reddit.com/r/mechmarket).  By the time I saw the post, the set had unfortunately been picked up by someone else.  Luckily, the buyer said he had a similar set in better condition but the set was missing a couple of keys.

@@ -28,13 +28,9 @@ canonifyurls = true
     twitter = ""
 
 [[menu.global]]
-    name = "Development"
-    url = "/categories/Development/"
+    name = "Blog"
+    url = "/"
 
 [[menu.global]]
-    name = "golang"
-    url = "/categories/golang/"
-
-[[menu.footer]]
     name = "About"
-    url = "/page/about/"
+    url = "/pages/about/"

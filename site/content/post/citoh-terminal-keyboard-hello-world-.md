@@ -4,9 +4,11 @@ Description = "Alps buckling spring"
 Tags = ["C.ITOH", "Buckling spring", "Alps"]
 date = "2018-02-22T02:07:24Z"
 title = "C.ITOH Terminal Keyboard / 'hello world'"
-image: 'uploads/2018/02/22/Photo%20Feb%2002,%203%2007%2020%20PM.jpg'
+image = 'uploads/2018/02/22/Photo%20Feb%2002,%203%2007%2020%20PM.jpg'
+
 
 +++
+
 I occasionally post on the [/r/mechmarket](https://www.reddit.com/r/mechmarket) to sell things or ask if anyone is willing to sell an interesting keyboard.  That's how I came across this new-in-box C.ITOH terminal board.  My post was asking for Alps or buckling spring boards.  The seller responded that this board is the "best of both worlds" as it's an Alps buckling spring board (which I didn't even know existed).  The only downside is that it was made for terminals and not modern PCs.
 
 ![](/uploads/2018/02/22/Photo Jan 13, 8 39 31 AM.jpg)

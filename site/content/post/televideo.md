@@ -4,6 +4,7 @@ Description = "The keyboard that launched a thousand shipments"
 Tags = ["Space Invaders", "Hi-Tek", "NMB", "Televideo"]
 date = "2018-11-12T20:01:49-06:00"
 title = "Televideo"
+image = "uploads/2018/11/13/9vsvurd.jpg"
 [menu.main]
 weight = 7
 

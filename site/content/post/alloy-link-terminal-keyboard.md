@@ -4,6 +4,7 @@ Description = "White Linear Space Invaders"
 Tags = ["Terminal", "Linear", "Space Invaders"]
 date = "2018-06-09T21:57:04-05:00"
 title = "Alloy Link Terminal Keyboard"
+image = "uploads/2018/06/06/Photo%20Apr%2028,%2011%2023%2010%20AM.jpg"
 [menu.main]
 weight = 6
 

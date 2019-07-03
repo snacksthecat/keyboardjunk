@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://lucid-chandrasekhar-26cd40.netlify.com"
 languageCode = "en-us"
 title = "Keyboard Junk"
 theme = "minimage"
